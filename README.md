@@ -2,7 +2,7 @@
 
 Project ini merupakan aplikasi web sederhana berbasis **PHP dan MySQL** yang digunakan untuk mengelola data warga tingkat RT menggunakan konsep **CRUD (Create, Read, Update, Delete)**. Sistem ini memungkinkan pengurus RT untuk melakukan pendataan warga secara terstruktur dan terkomputerisasi.
 
-Aplikasi ini dikembangkan sebagai latihan dan implementasi konsep **Web Programming dan Basis Data**.
+Aplikasi ini dikembangkan sebagai latihan dan implementasi konsep **Web Programming dan Basis Data**, serta dibuat untuk memenuhi **Tugas Besar mata kuliah E-Commerce dan Pengembangan Web**.
 
 ---
 
